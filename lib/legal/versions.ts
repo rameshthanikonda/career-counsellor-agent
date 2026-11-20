@@ -1,0 +1,3 @@
+export const PRIVACY_VERSION = "2026-11";
+export const TERMS_VERSION = "2026-11";
+export const COUNSELLING_CONSENT_VERSION = "2026-07";
