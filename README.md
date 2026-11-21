@@ -10,7 +10,7 @@ A key design principle is **human accountability**: an assessment report is revi
 
 ## Live Demo
 
-**Application:** [Open Northstar Career Counsellor Agent](https://2q4k9vzg-3000.inc1.devtunnels.ms/)
+**Application:** [Open Northstar Career Counsellor Agent](https://career-counsellor-agent.netlify.app/)
 
 The demo is currently exposed from the development environment using VS Code port forwarding. The link is available while the local application and port-forwarding session remain active; it may change when the forwarding session is restarted.
 
