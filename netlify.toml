@@ -1,0 +1,6 @@
+[build.environment]
+  # DATA_BACKEND is a non-sensitive storage switch ("file" or "supabase").
+  # Its value naturally appears in source code and docs, so exclude it from
+  # secrets scanning. Real secrets (AUTH_SECRET, GEMINI_API_KEY, Supabase keys)
+  # remain scanned.
+  SECRETS_SCAN_OMIT_KEYS = "DATA_BACKEND"
